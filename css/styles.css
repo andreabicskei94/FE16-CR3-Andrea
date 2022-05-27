@@ -1,0 +1,41 @@
+.footer {
+  height: 100px;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  width: 2%;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+.container_review {
+  margin: 30px 100px 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.review_item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.titel_text {
+  font-size: 50px;
+}
+/*# sourceMappingURL=styles.css.map */
